@@ -1,3 +1,6 @@
 {
-  "usingComponents": {}
+  "usingComponents": {},
+  "navigationBarTitleText": "电影",
+  "backgroundColor": "#ff0000",
+  "navigationBarBackgroundColor": "#db2412"
 }

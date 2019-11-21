@@ -1,2 +1,6 @@
 <!--pages/about/about.wxml-->
 <text>pages/about/about.wxml</text>
+<view>我是电影页面</view>
+
+<button bindtap="handleBtnClick" size="mini">按钮</button>
+<view>{{message}}</view>
